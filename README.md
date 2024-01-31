@@ -1,7 +1,7 @@
 # KODLUYORUZ ILK REPO
 
 Bu repo [Kodluyoruz](https://kodluyoruz.org/) .NET Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
-![](https://drive.google.com/file/d/1izoDEcbC4OAA9YR4M7WvKeOMwo9jKCLp/view?usp=sharing)
+![](https://github.com/byzgrn/kodluyoruzilkrepo/blob/main/projeRepo.PNG)
 
 ## Installation
 
